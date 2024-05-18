@@ -1,0 +1,37 @@
+[
+    {
+        "type": "file",
+        "name": "getting-started",
+        "label": "文档快速入手学习指南"
+    },
+    {
+        "type": "dir",
+        "name": "chapter1",
+        "label": "第一章 通识基础",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "chapter2",
+        "label": "第二章 页面骨架（结构）HTML",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "chapter3",
+        "label": "第三章 页面表现（样式） CSS",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "chapter4",
+        "label": "第四章 页面动作（行为） JavaScript",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "chapter5",
+        "label": "第五章 前端工程化",
+        "collapsed": true
+    }
+]

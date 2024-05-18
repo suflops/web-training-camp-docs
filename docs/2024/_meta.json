@@ -1,0 +1,17 @@
+[
+    {
+        "text": "文档",
+        "link": "/guide/getting-started",
+        "activeMatch": "/guide/"
+    },
+    {
+        "text": "2024夏季训练营介绍",
+        "link": "/introduction/",
+        "activeMatch": "/introduction/"
+    },
+    {
+        "text": "课程计划表",
+        "link": "/schedule/",
+        "activeMatch": "/schedule/"
+    }
+]

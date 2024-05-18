@@ -1,0 +1,17 @@
+[
+    {
+        "type": "file",
+        "name": "intro",
+        "label": "引言"
+    },
+    {
+        "type": "file",
+        "name": "IDE",
+        "label": "前端编辑器的选择"
+    },
+    {
+        "type": "file",
+        "name": "exercise",
+        "label": "练习"
+    }
+]
