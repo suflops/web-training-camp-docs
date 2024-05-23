@@ -7,7 +7,7 @@
     {
         "type": "file",
         "name": "IDE",
-        "label": "前端编辑器的选择"
+        "label": "开发工具（IDE）和浏览器的选择"
     },
     {
         "type": "file",

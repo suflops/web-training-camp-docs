@@ -3,7 +3,7 @@ pageType: home
 
 hero:
   name: 前端训练营
-  tagline: Open SUFLOPS Labs.
+  tagline: The Open SUFLOPS & 中软国际教育
   actions:
     - theme: alt
       text: 训练营介绍

@@ -6,7 +6,28 @@
     },
     {
         "type": "file",
+        "name": "first-html",
+        "label": "运行第一个HTML文件"
+    },
+    {
+        "type": "dir",
+        "name": "tags",
+        "label": "HTML标签",
+        "collapsed": true
+    },
+    {
+        "type": "file",
+        "name": "summary",
+        "label": "本章总结"
+    },
+    {
+        "type": "file",
         "name": "exercise",
         "label": "练习"
+    },
+    {
+        "type": "file",
+        "name": "interview",
+        "label": "面试题"
     }
 ]
