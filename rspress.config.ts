@@ -3,6 +3,7 @@ import { defineConfig } from 'rspress/config';
 import alignImage from 'rspress-plugin-align-image';
 
 export default defineConfig({
+  base: "/web-training-camp-docs",
   root: path.join(__dirname, 'docs'),
   title: '前端训练营',
   description: 'Rspack-based Static Site Generator',
