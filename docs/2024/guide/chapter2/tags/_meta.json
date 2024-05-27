@@ -1,7 +1,22 @@
 [
     {
         "type": "file",
+        "name": "basic-html-structure",
+        "label": "HTML的基本结构"
+    }
+    ,{
+        "type": "file",
         "name": "tags-intro",
         "label": "标签介绍"
+    },
+    {
+        "type": "file",
+        "name": "basic-html-structure-tags",
+        "label": "HTML基本结构标签介绍"
+    },
+    {
+        "type": "file",
+        "name": "common-tags",
+        "label": "常用标签"
     }
 ]

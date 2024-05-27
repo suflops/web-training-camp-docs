@@ -22,7 +22,7 @@ export default defineConfig({
     prevPageText: '上一节',
     nextPageText: '下一节',
     footer: {
-      message: '© 2024 The Open SUFLOPS & 中软国际教育. All Rights Reserved.'
+      message: '© 2024 The Open SUFLOPS. All Rights Reserved.'
     }
   },
 });
